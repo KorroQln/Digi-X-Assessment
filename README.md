@@ -12,10 +12,10 @@
 
 ### Section 2
 1.	What is GitHub? 
-```GitHub is a Git online repository hosting service that provides access control and collaboration features between developer. It provides built-in control and task-management tools that allows programmers to keep track and share project online like a cloud-based.```
+```GitHub is a Git online repository hosting service that provides access control and collaboration features between developer. It provides built-in control and task management tools that allows programmers to keep track and share their project online like a cloud-based.```
 
 2.	How does GitHub help developers?
-```Basically, a team of developers can work together by using the same codebase without making copy or rewriting the code for another. Developers can see what others are working on, review code and view code for previous version of changes.```
+```Basically, a team of developers can work together by using the same codebase without making copy or rewriting the code from each another. Developers can see what others are working on, review code and view code for previous version of changes.```
 
 
 ### Section 3
